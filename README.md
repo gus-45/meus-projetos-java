@@ -37,7 +37,7 @@ A classe contém métodos para:
 - Calcular o **perímetro**.  
 - Calcular a **diagonal** utilizando a fórmula de Pitágoras.  
 
-O programa principal (`ProgramaRetangulo`) solicita os valores ao usuário, cria um objeto `Retangulo` e exibe os resultados dos cálculos.  
+O programa principal (ProgramaRetangulo) solicita os valores ao usuário, cria um objeto Retangulo e exibe os resultados dos cálculos.  
 
 ⚙️ **Conceitos trabalhados:**  
 - Criação de classes em Java.  
