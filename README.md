@@ -8,7 +8,7 @@ Os programas foram desenvolvidos para exercitar **Programação Orientada a Obje
 ## 📂 Estrutura  
 
 - **Desafio 1**  
-  - Exercício 1 – Retângulo  
+  - Exercício 1  
   - Exercício 2  
   - Exercício 3  
 
@@ -20,6 +20,7 @@ Os programas foram desenvolvidos para exercitar **Programação Orientada a Obje
   - Exercício 1  
   - Exercício 2  
 
----
+- **Atividade Extra**
+   - Exercicio 1
 
 
